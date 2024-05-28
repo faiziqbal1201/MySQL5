@@ -163,7 +163,7 @@ JOIN Dosen ON KRSMahasiswa.kd_ds = Dosen.kd_ds;
 
 <img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
 
-- [Link Laporan Praktikum](http://bit.ly/3ITDuFp)
+- [Link Laporan Praktikum](https://drive.google.com/file/d/1AFBFiZr0M8eRS6clZxMmKlaIo_yhDOIB/view?usp=drivesdk)
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> 
 ## TERIMAKASIH
